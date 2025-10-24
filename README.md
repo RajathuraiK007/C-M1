@@ -11,6 +11,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+```c
 #include <stdio.h>
 
 int main() {
@@ -19,6 +20,7 @@ int main() {
 	printf("%c %c %c",c,b,a);
 	return 0;
 }
+```
 
 ## OUTPUT:
 <img width="1811" height="481" alt="image" src="https://github.com/user-attachments/assets/f83b0111-de54-436f-b1ce-bae74429c15c" />
