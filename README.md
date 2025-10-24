@@ -20,7 +20,7 @@ int main() {
 	printf("%c %c %c",c,b,a);
 	return 0;
 }
-
+```
 
 ## OUTPUT:
 <img width="1811" height="481" alt="image" src="https://github.com/user-attachments/assets/f83b0111-de54-436f-b1ce-bae74429c15c" />
@@ -46,6 +46,7 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+```c
 #include<stdio.h>
 int main()
 {
@@ -59,7 +60,7 @@ int main()
     printf("%d is Negative",a);
     return 0;
 }
-
+```
 # OUTPUT:
 <img width="1813" height="677" alt="image" src="https://github.com/user-attachments/assets/8f9550cb-7df1-4c21-8f46-941967651117" />
 <img width="1813" height="682" alt="image" src="https://github.com/user-attachments/assets/36d7d06a-bf5f-4929-a4b2-04fa93597e50" />
@@ -87,6 +88,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+```c
 #include<stdio.h>
 int main()
 {
@@ -102,7 +104,7 @@ int main()
     printf("%f",min);
     return 0;
 }
-
+```
 ## OUTPUT:
 <img width="1816" height="716" alt="image" src="https://github.com/user-attachments/assets/33dd7bb1-03a8-4860-834a-4ff15c75948e" />
 
@@ -127,6 +129,7 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+```c
 #include<stdio.h>
 int main()
 {
@@ -138,7 +141,7 @@ int main()
     printf("%d is not equal to 1",a);
     return 0;
 }
-
+```
 ## OUTPUT:
 <img width="1812" height="564" alt="image" src="https://github.com/user-attachments/assets/64d07a62-d883-45be-befc-9351ff0e3ebe" />
 <img width="1814" height="605" alt="image" src="https://github.com/user-attachments/assets/55d36211-5c74-44e5-b858-1e831733d430" />
@@ -171,6 +174,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 10.	End
 11.	
 ## PROGRAM:
+```c
 #include<stdio.h>
 int main()
 {
@@ -193,6 +197,7 @@ int main()
     }
     return 0;
 }
+```
 
 ## OUTPUT:
 <img width="1812" height="432" alt="image" src="https://github.com/user-attachments/assets/9499d527-059a-49cf-b46a-5f207f6eb1e0" />
