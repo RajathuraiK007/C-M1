@@ -11,7 +11,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
-```
+```p
 #include <stdio.h>
 
 int main() {
